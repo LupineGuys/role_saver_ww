@@ -7,11 +7,11 @@ change `MY_AWESOME_TOKEN` and run it
 
 ## options
 
-save players role with `/sn <role>`
-ask role from players, who has not saved any role `/saveYourRole`
-block list and used message list to have a better experience :)
+* save players role with `/sn <role>`
+* ask role from players, who has not saved any role `/saveYourRole`
+* block list and used message list to have a better experience :)
 
 ### todo
-convert dict base to DB base
-add stats of group and player
-add leader options 
+* convert dict base to DB base
+* add stats of group and player
+* add leader options 
